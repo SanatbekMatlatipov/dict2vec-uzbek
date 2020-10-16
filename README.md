@@ -1,6 +1,8 @@
 Dict2vec
 ========
 
+**This is a fork of Dict2vec framework, modified for Uzbek language, the original framework is [here](https://github.com/tca19/dict2vec).**
+
 Dict2vec is a framework to learn word embeddings using lexical dictionaries.
 
 Requirements
